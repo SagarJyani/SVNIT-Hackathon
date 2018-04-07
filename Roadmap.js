@@ -32,21 +32,21 @@ function loadMap()
 	}
 }
 
-function setup()
-{
-	height=650;
-	width=650;
-	loadMap();
-	// printMap();
-	background(100);
-	createCanvas(height,width);
-}
+// function setup()
+// {
+// 	height=650;
+// 	width=650;
+// 	loadMap();
+// 	// printMap();
+// 	background(100);
+// 	createCanvas(height,width);
+// }
 
-function draw()
-{
-	background(100);
-	drawMap();
-}
+// function draw()
+// {
+// 	background(100);
+// 	drawMap();
+// }
 
 
 function printMap()
